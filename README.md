@@ -1,10 +1,10 @@
-# [your app name here]
+# [TuneClub]
 
 CodePath WEB103 Final Project
 
 Designed and developed by: [Thomas Huang, Juan Apolo, and Nanzib Chowdhury]
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: 
 
 ## About
 
