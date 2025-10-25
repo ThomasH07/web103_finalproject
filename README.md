@@ -1,8 +1,8 @@
-# [TuneClub]
+# TuneClub
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [Thomas Huang, Juan Apolo, and Nanzib Chowdhury]
+Designed and developed by: Thomas Huang, Juan Apolo, and Nanzib Chowdhury
 
 🔗 Link to deployed app: 
 
@@ -14,7 +14,7 @@ Designed and developed by: [Thomas Huang, Juan Apolo, and Nanzib Chowdhury]
 
 ### Inspiration
 
-[This project draws inspiration from several popular games and platforms, blending their best mechanics into a single, music-focused experience:
+This project draws inspiration from several popular games and platforms, blending their best mechanics into a single, music-focused experience:
 
     Wordle: The core concept for the daily challenge mode is heavily inspired by Wordle. This includes the "one-puzzle-per-day" model, the 5-attempt limit, simple streak tracking, and the iconic shareable emoji grid to show off your results without spoilers.
 
@@ -24,7 +24,7 @@ Designed and developed by: [Thomas Huang, Juan Apolo, and Nanzib Chowdhury]
 
     Jackbox Games: A major influence on the "social party game" feel. The concept of creating a "room" (or session) for friends to join instantly from their own devices (phones, laptops) for a fun, real-time competition is a hallmark of the Jackbox suite.
 
-    SongPop: A classic in the music quiz genre. Its influence is seen in the fast-paced, competitive guessing format and the deep customization of playlists based on specific genres, artists, and decades.]
+    SongPop: A classic in the music quiz genre. Its influence is seen in the fast-paced, competitive guessing format and the deep customization of playlists based on specific genres, artists, and decades.
 
 ## Tech Stack
 
