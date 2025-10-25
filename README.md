@@ -10,7 +10,7 @@ Designed and developed by: Thomas Huang, Juan Apolo, and Nanzib Chowdhury
 
 ### Description and Purpose
 
-[text goes here]
+It is a music guessing game that combines daily Wordle-style challenges with customizable multiplayer sessions. Each day, all users get the same "Song of the Day" where they have 5 attempts to guess the track using progressive audio snippets (starting at 3 seconds, expanding with each attempt) and optional hints like genre, artist clues, or release era, with results shareable as emoji grids and streak tracking for daily players. Users can also create live multiplayer sessions via shareable links where the host customizes the experience by selecting specific genres, artists, and difficulty levels, Easy mode features mainstream hits with 500M+ Spotify listens, Medium includes popular songs with fewer streams, and Hard showcases deep cuts and obscure tracks with minimal plays. Friends join to compete by guessing songs with the same hint system while watching a live leaderboard update based on speed and how many guesses it took for them to get it right. The platform uses real-time gameplay with music APIs like Spotify for metadata and audio previews, and stores user statistics, daily challenges, session configurations, and leaderboards in PostgreSQL.
 
 ### Inspiration
 
