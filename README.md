@@ -1,4 +1,4 @@
-# TuneClub
+# Beatdle
 
 CodePath WEB103 Final Project
 
