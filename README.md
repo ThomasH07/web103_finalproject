@@ -34,21 +34,63 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### Daily Song Challenge
+
+A Wordle-style daily game where all users have a limited number of attempts to guess the same "Song of the Day." Players can listen to progressively longer audio snippets with each guess to help them identify the track.
+
+[gif goes here]
+
+### Live Multiplayer Sessions
+
+Users can create or join real-time multiplayer games via a shareable link. The host customizes the game, and all players compete simultaneously to guess songs, with a live leaderboard tracking scores after each round.
+
+[gif goes here]
+
+### Leaderboards
+
+Displays high scores and player rankings. This includes a leaderboard for the Daily Song Challenge (ranking players by speed and attempts) and a separate all-time leaderboard for total points earned in multiplayer games.
+
+[gif goes here]
+
+### User Profiles & Stats
+
+Registered users have a personal profile page that tracks their game history, daily challenge streaks, average guess speed, win/loss ratio, and other key statistics.
+
+[gif goes here]
+
+### Shareable Results
+
+After completing the Daily Song Challenge, users can copy their results to the clipboard as a spoiler-free grid of emojis. This allows them to share their performance on social media without revealing the song title.
+
+[gif goes here]
+
+### Autofill Guessing
+
+An intelligent search bar that provides autofill suggestions as the user types their guess. This connects to the music database to prevent misspellings and help users quickly find and submit the correct song title and artist.
+
+[gif goes here]
+
+### Progressive Audio Snippets
+
+The core mechanic where players first hear a very short audio clip (e.g., 3 seconds). With each failed or skipped attempt, a longer snippet of the song is unlocked, making it progressively easier to guess.
+
+[gif goes here]
+
+### Custom Game Settings
+
+The host of a multiplayer session can customize the game's content. Settings include selecting specific genres (e.g., Rock, Hip-Hop), decades (e.g., 80s, 90s), or even creating a quiz based on a single artist.
+
+[gif goes here]
+
+### Optional Hints
 
 [short description goes here]
 
 [gif goes here]
 
-### [Name of Feature 2]
+### Dynamic Scoring System
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 3]
-
-[short description goes here]
+A points-based system that rewards players for both speed and accuracy. In multiplayer, players who guess the song correctly and quickly earn the most points. In the daily challenge, the final score is based on the number of attempts used.
 
 [gif goes here]
 
