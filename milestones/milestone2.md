@@ -11,7 +11,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [ ] In `planning/entity_relationship_diagram.md`: add the entity relationship diagram you developed for your database.
   - [ ] Your entity relationship diagram should include the tables in your database.
 - [X] Prepare your three-minute pitch presentation, to be presented during Unit 7 (the next unit).
-  - [ ] You do **not** need to submit any materials in advance of your pitch.
+  - [X] You do **not** need to submit any materials in advance of your pitch.
 - [X] In this document, complete all three questions in the **Reflection** section below
 
 ## Reflection
