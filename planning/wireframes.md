@@ -5,9 +5,13 @@ Reference the Creating Wireframes final project guide in the course portal for m
 ## List of Pages
 
 ⭐ Home
+
 ⭐ Guessing Daily Song
+
 ⭐ Session Lobby
+
 ⭐ Session Guessing Song
+
 ⭐ Session Lobby - Host
 
 ## Wireframe 1: Home
