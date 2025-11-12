@@ -14,20 +14,19 @@ You will need to reference the GitHub Project Management guide in the course por
 - [X] In your repo, update the status of issues in your project board.
 - [X] In your repo, create a GitHub Milestone for each final project unit, corresponding to each of the 5 milestones in your `milestones/` directory. 
   - [ ] Set the completion percentage of each milestone. The GitHub Milestone for this unit (Milestone 3 - Unit 7) should be 100% completed when you submit for full points.
-- [ ] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of the feature's name.
-  - [ ] Under each feature you have completed, include a GIF showing feature functionality.
-- [ ] In this documents, complete all five questions in the **Reflection** section below.
+- [X] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of the feature's name.
+  - [X] Under each feature you have completed, include a GIF showing feature functionality.
+- [X] In this documents, complete all five questions in the **Reflection** section below.
 
 ## Reflection
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Our group successfully set up the backend and frontend for the Beatdle game, including fetching tracks from Spotify, creating the daily game page, implementing guesses with visual feedback, and designing a basic multiplayer lobby with WebSocket support. The structure of the project is clean, and we were able to connect the React frontend to the Node.js/Express backend seamlessly.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
-
+One major challenge was integrating Spotify’s API with proper authentication, handling access tokens, and ensuring previews loaded correctly. Implementing the WebSocket-based multiplayer lobby was also challenging, especially broadcasting player states and handling real-time updates reliably. TypeScript typing between frontend and backend caused some friction as well.
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
 [👉🏾👉🏾👉🏾 your answer here]
