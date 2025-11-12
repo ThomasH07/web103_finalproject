@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { getTrack } from '../services/spotify.js';
+import { getTrack, searchTracks } from '../services/spotify.js';
 
 dotenv.config();
 
@@ -36,6 +36,17 @@ app.get('/api/spotify/track/:id', async (req, res) => {
 app.get('/callback', (req, res) => {
   console.log('Spotify callback hit with params:', req.query);
   res.send('Callback received');
+});
+app.get('/api/spotify/search', async (req, res) => {
+  try {
+    const q = req.query.q as string;
+    if (!q) return res.status(400).json({ error: 'Missing search query' });
+    const results = await searchTracks(q);
+    res.json(results);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Failed to search tracks' });
+  }
 });
 
 app.listen(PORT, () => {
