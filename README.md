@@ -34,11 +34,15 @@ Backend:
 
 ## Features
 
-### Daily Song Challenge
+### Daily Song Challenge ✅ 
 
 A Wordle-style daily game where all users have a limited number of attempts to guess the same "Song of the Day." Players can listen to progressively longer audio snippets with each guess to help them identify the track.
 
-[gif goes here]
+    Sub Feature - Score System ✅ 
+
+    Players see their score based on how accurate they guess. Rewards early correct guesses and encourages careful listening
+
+[Kapture 2025-11-11 at 23 20 59](https://github.com/user-attachments/assets/c996b28b-a825-463b-8ee0-8df726d336b3)
 
 ### Live Multiplayer Sessions
 
